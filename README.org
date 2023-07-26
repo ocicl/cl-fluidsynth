@@ -1,0 +1,9 @@
+* cl-fluidsynth
+
+Wrapper for FluidSynth SoundFont synthesizer
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/zazzerino/cl-fluidsynth.git |
+| commit  | 0bad4b2                                                   |
+| systems | cl-fluidsynth                                      |
+|---------+----------------------------------------------------|
